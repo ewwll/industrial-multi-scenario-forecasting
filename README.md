@@ -36,7 +36,7 @@
 industrial-multi-scenario-forecasting/
 │
 ├── data/                      # 示例数据（需用户自行放入原始数据）
-│
+│── discussion/                # 赛题解析与思路 
 ├── model/                     # 预训练模型权重
 │   ├── last_dlinear_wind.pth
 │   ├── last_dlinear_inflow.pth
