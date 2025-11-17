@@ -63,8 +63,3 @@ docker run --rm -v $(pwd)/data:/app/data competition_final:v1
 ```
 /app/data/taskN/*.csv
 ```
-
----
-
-
-```
