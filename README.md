@@ -1,4 +1,4 @@
-# 🧩 Industrial Multi-Scenario Forecasting (ShujingCup 2025 1st Prize Solution)
+# 🧩 Industrial Multi-Scenario Forecasting 
 
 > 🌟 工业多场景时间序列预测框架（基于 DLinear）  
 > 🏆 第八届“数境杯”数据智能创新应用大赛 · 大模型工业多重场景挑战赛 **开源复现**  
